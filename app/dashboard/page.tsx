@@ -1,4 +1,4 @@
-import KaliTerminal from '@/components/KaliTerminal';
+import KaliTerminal from '../../../components/KaliTerminal';
 import { UserButton } from '@clerk/nextjs';
 import { Wallet } from 'lucide-react';
 
